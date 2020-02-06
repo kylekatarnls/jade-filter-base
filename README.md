@@ -1,3 +1,5 @@
+This repository now lives on https://github.com/pug-php/pug-filter-base
+
 # pug-filter-base
 Example for Pug-php filter, use this base to create and publish your own
 
